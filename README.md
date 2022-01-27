@@ -13,7 +13,7 @@ composer require larc/csv-easy
 
 ### Uso
 
-#### Para leer
+#### Read
 
 ```php
 use Larc\CsvEasy\CSV;
@@ -68,6 +68,8 @@ array(2) {
 #### Write
 
 ```php
+use Larc\CsvEasy\CSV;
+
 $column_name = ['No. del mes', 'Nombre del mes', 'Abreviatura'];
 $data = [
 	['1', 'Enero', 'Ene'],
