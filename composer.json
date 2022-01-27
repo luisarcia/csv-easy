@@ -1,0 +1,18 @@
+{
+    "name": "larc/csv-easy",
+    "description": "Lee y crear archivo csv",
+    "type": "library",
+    "license": "Apache 2.0",
+    "autoload": {
+        "psr-4": {
+            "Larc\\CsvEasy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Arcia",
+            "email": "luis.arcia@weblarc.com"
+        }
+    ],
+    "require": {}
+}
