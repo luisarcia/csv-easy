@@ -5,7 +5,7 @@ Lee y crear archivo CSV de manera fácil y rápida
 
 ### Instalación
 
-```http
+```Bash
 composer require larc/csv-easy
 ```
 
